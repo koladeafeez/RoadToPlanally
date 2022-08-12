@@ -1,0 +1,15 @@
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\bin\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.exe
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\bin\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.deps.json
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\bin\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.runtimeconfig.json
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\bin\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.dll
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\bin\Debug\net6.0\ref\1_SUM_OF_BIGGEST_NEIGHBOR.dll
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\bin\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.pdb
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\obj\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.csproj.AssemblyReference.cache
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\obj\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\obj\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.AssemblyInfoInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\obj\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.AssemblyInfo.cs
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\obj\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.csproj.CoreCompileInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\obj\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.dll
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\obj\Debug\net6.0\ref\1_SUM_OF_BIGGEST_NEIGHBOR.dll
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\obj\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.pdb
+C:\Users\Koladeza\Desktop\Pannaly\1_SUM_OF_BIGGEST_NEIGHBOR\obj\Debug\net6.0\1_SUM_OF_BIGGEST_NEIGHBOR.genruntimeconfig.cache

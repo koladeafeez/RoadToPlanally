@@ -1,0 +1,15 @@
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\bin\Debug\net6.0\3_JOHN_THE_ROBOT.exe
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\bin\Debug\net6.0\3_JOHN_THE_ROBOT.deps.json
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\bin\Debug\net6.0\3_JOHN_THE_ROBOT.runtimeconfig.json
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\bin\Debug\net6.0\3_JOHN_THE_ROBOT.dll
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\bin\Debug\net6.0\ref\3_JOHN_THE_ROBOT.dll
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\bin\Debug\net6.0\3_JOHN_THE_ROBOT.pdb
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\obj\Debug\net6.0\3_JOHN_THE_ROBOT.csproj.AssemblyReference.cache
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\obj\Debug\net6.0\3_JOHN_THE_ROBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\obj\Debug\net6.0\3_JOHN_THE_ROBOT.AssemblyInfoInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\obj\Debug\net6.0\3_JOHN_THE_ROBOT.AssemblyInfo.cs
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\obj\Debug\net6.0\3_JOHN_THE_ROBOT.csproj.CoreCompileInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\obj\Debug\net6.0\3_JOHN_THE_ROBOT.dll
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\obj\Debug\net6.0\ref\3_JOHN_THE_ROBOT.dll
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\obj\Debug\net6.0\3_JOHN_THE_ROBOT.pdb
+C:\Users\Koladeza\Desktop\Pannaly\3_JOHN_THE_ROBOT\obj\Debug\net6.0\3_JOHN_THE_ROBOT.genruntimeconfig.cache

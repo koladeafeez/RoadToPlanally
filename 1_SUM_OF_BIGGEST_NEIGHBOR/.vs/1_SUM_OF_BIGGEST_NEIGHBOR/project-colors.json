@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "629890ba-308f-40d6-9a9d-f3648dfb9317": {
+      "ProjectGuid": "629890ba-308f-40d6-9a9d-f3648dfb9317",
+      "DisplayName": "1_SUM_OF_BIGGEST_NEIGHBOR",
+      "ColorIndex": 0
+    },
+    "83164fec-a022-452f-8941-9d055bf325ab": {
+      "ProjectGuid": "83164fec-a022-452f-8941-9d055bf325ab",
+      "DisplayName": "2_USERCLASS",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "01be9449-569f-4b95-ac34-78792c60f012": {
+      "ProjectGuid": "01be9449-569f-4b95-ac34-78792c60f012",
+      "DisplayName": "3_JOHN_THE_ROBOT",
+      "ColorIndex": 2
+    },
+    "8c52d76a-c2ac-4170-bbb8-7b5b0e465a34": {
+      "ProjectGuid": "8c52d76a-c2ac-4170-bbb8-7b5b0e465a34",
+      "DisplayName": "4_ALEXA_SETTINGS",
+      "ColorIndex": 3
+    },
+    "3484b905-9520-405c-8f37-53bb09718899": {
+      "ProjectGuid": "3484b905-9520-405c-8f37-53bb09718899",
+      "DisplayName": "5_METHOD_SIGNATURE",
+      "ColorIndex": 4
+    },
+    "e1a86915-fcb5-400c-8cc4-6bc7600233f6": {
+      "ProjectGuid": "e1a86915-fcb5-400c-8cc4-6bc7600233f6",
+      "DisplayName": "6_CONSTRUCTION_GAME",
+      "ColorIndex": 5
+    },
+    "2cdcc17a-b337-4a01-8ed1-2d2f1f7ce707": {
+      "ProjectGuid": "2cdcc17a-b337-4a01-8ed1-2d2f1f7ce707",
+      "DisplayName": "7_ES6_IMPORTS",
+      "ColorIndex": 6
+    },
+    "a724bec9-4d76-4a99-b31f-1a9d9345eb13": {
+      "ProjectGuid": "a724bec9-4d76-4a99-b31f-1a9d9345eb13",
+      "DisplayName": "8_TYPESCRIPT_MASTERY",
+      "ColorIndex": 7
+    },
+    "77f3fbf2-017e-4144-8ed6-821daf20a1d6": {
+      "ProjectGuid": "77f3fbf2-017e-4144-8ed6-821daf20a1d6",
+      "DisplayName": "5_METHODSIGNATURE",
+      "ColorIndex": 8
+    },
+    "5a78fffc-d61b-4060-851c-3e112d08b936": {
+      "ProjectGuid": "5a78fffc-d61b-4060-851c-3e112d08b936",
+      "DisplayName": "8_TYPESCRIPTMASTERY",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

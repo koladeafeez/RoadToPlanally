@@ -1,0 +1,15 @@
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\bin\Debug\net6.0\2_USERCLASS.exe
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\bin\Debug\net6.0\2_USERCLASS.deps.json
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\bin\Debug\net6.0\2_USERCLASS.runtimeconfig.json
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\bin\Debug\net6.0\2_USERCLASS.dll
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\bin\Debug\net6.0\ref\2_USERCLASS.dll
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\bin\Debug\net6.0\2_USERCLASS.pdb
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\obj\Debug\net6.0\2_USERCLASS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\obj\Debug\net6.0\2_USERCLASS.AssemblyInfoInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\obj\Debug\net6.0\2_USERCLASS.AssemblyInfo.cs
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\obj\Debug\net6.0\2_USERCLASS.csproj.CoreCompileInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\obj\Debug\net6.0\2_USERCLASS.dll
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\obj\Debug\net6.0\ref\2_USERCLASS.dll
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\obj\Debug\net6.0\2_USERCLASS.pdb
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\obj\Debug\net6.0\2_USERCLASS.genruntimeconfig.cache
+C:\Users\Koladeza\Desktop\Pannaly\2_USERCLASS\obj\Debug\net6.0\2_USERCLASS.csproj.AssemblyReference.cache

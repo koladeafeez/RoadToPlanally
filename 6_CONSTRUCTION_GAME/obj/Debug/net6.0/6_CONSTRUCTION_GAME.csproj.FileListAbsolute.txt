@@ -1,0 +1,15 @@
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\obj\Debug\net6.0\6_CONSTRUCTION_GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\obj\Debug\net6.0\6_CONSTRUCTION_GAME.AssemblyInfoInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\obj\Debug\net6.0\6_CONSTRUCTION_GAME.AssemblyInfo.cs
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\obj\Debug\net6.0\6_CONSTRUCTION_GAME.csproj.CoreCompileInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\bin\Debug\net6.0\6_CONSTRUCTION_GAME.exe
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\bin\Debug\net6.0\6_CONSTRUCTION_GAME.deps.json
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\bin\Debug\net6.0\6_CONSTRUCTION_GAME.runtimeconfig.json
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\bin\Debug\net6.0\6_CONSTRUCTION_GAME.dll
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\bin\Debug\net6.0\ref\6_CONSTRUCTION_GAME.dll
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\bin\Debug\net6.0\6_CONSTRUCTION_GAME.pdb
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\obj\Debug\net6.0\6_CONSTRUCTION_GAME.dll
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\obj\Debug\net6.0\ref\6_CONSTRUCTION_GAME.dll
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\obj\Debug\net6.0\6_CONSTRUCTION_GAME.pdb
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\obj\Debug\net6.0\6_CONSTRUCTION_GAME.genruntimeconfig.cache
+C:\Users\Koladeza\Desktop\Pannaly\6_CONSTRUCTION_GAME\obj\Debug\net6.0\6_CONSTRUCTION_GAME.csproj.AssemblyReference.cache

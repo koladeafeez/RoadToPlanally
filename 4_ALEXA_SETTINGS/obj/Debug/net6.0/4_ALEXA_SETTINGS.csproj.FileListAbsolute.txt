@@ -1,0 +1,15 @@
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\obj\Debug\net6.0\4_ALEXA_SETTINGS.csproj.AssemblyReference.cache
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\obj\Debug\net6.0\4_ALEXA_SETTINGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\obj\Debug\net6.0\4_ALEXA_SETTINGS.AssemblyInfoInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\obj\Debug\net6.0\4_ALEXA_SETTINGS.AssemblyInfo.cs
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\obj\Debug\net6.0\4_ALEXA_SETTINGS.csproj.CoreCompileInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\bin\Debug\net6.0\4_ALEXA_SETTINGS.exe
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\bin\Debug\net6.0\4_ALEXA_SETTINGS.deps.json
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\bin\Debug\net6.0\4_ALEXA_SETTINGS.runtimeconfig.json
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\bin\Debug\net6.0\4_ALEXA_SETTINGS.dll
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\bin\Debug\net6.0\ref\4_ALEXA_SETTINGS.dll
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\bin\Debug\net6.0\4_ALEXA_SETTINGS.pdb
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\obj\Debug\net6.0\4_ALEXA_SETTINGS.dll
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\obj\Debug\net6.0\ref\4_ALEXA_SETTINGS.dll
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\obj\Debug\net6.0\4_ALEXA_SETTINGS.pdb
+C:\Users\Koladeza\Desktop\Pannaly\4_ALEXA_SETTINGS\obj\Debug\net6.0\4_ALEXA_SETTINGS.genruntimeconfig.cache

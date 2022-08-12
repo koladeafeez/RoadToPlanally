@@ -1,0 +1,15 @@
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\bin\Debug\net6.0\5_METHODSIGNATURE.exe
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\bin\Debug\net6.0\5_METHODSIGNATURE.deps.json
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\bin\Debug\net6.0\5_METHODSIGNATURE.runtimeconfig.json
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\bin\Debug\net6.0\5_METHODSIGNATURE.dll
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\bin\Debug\net6.0\ref\5_METHODSIGNATURE.dll
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\bin\Debug\net6.0\5_METHODSIGNATURE.pdb
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\obj\Debug\net6.0\5_METHODSIGNATURE.csproj.AssemblyReference.cache
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\obj\Debug\net6.0\5_METHODSIGNATURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\obj\Debug\net6.0\5_METHODSIGNATURE.AssemblyInfoInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\obj\Debug\net6.0\5_METHODSIGNATURE.AssemblyInfo.cs
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\obj\Debug\net6.0\5_METHODSIGNATURE.csproj.CoreCompileInputs.cache
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\obj\Debug\net6.0\5_METHODSIGNATURE.dll
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\obj\Debug\net6.0\ref\5_METHODSIGNATURE.dll
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\obj\Debug\net6.0\5_METHODSIGNATURE.pdb
+C:\Users\Koladeza\Desktop\Pannaly\5_METHODSIGNATURE\obj\Debug\net6.0\5_METHODSIGNATURE.genruntimeconfig.cache
